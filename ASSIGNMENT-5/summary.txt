@@ -1,0 +1,18 @@
+Campus Energy Consumption Report
+----------------------------------------
+Total Campus Consumption: 522.00 kWh
+
+Highest Consuming Building:
+- Krmu Block D: 150.00 kWh
+
+Peak Load:
+- Timestamp: 2025-11-27 02:25:00
+- kWh: 150.00
+
+Insights:
+- Day with highest consumption: 2025-11-27 (522.00 kWh)
+- Week with highest consumption ending on: 2025-11-30 (522.00 kWh)
+
+Dashboard file: C:\Users\ASUS\OneDrive\Desktop\Python\dashboard.png
+Cleaned data file: C:\Users\ASUS\OneDrive\Desktop\Python\cleaned_energy_data.csv
+Building summary file: C:\Users\ASUS\OneDrive\Desktop\Python\building_summary.csv
